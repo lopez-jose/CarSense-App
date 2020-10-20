@@ -10,7 +10,6 @@ import UIKit
 import Parse
 import UserNotifications
 
-//CLI-PVH
 
 /*The appdelegate.swift file handles parse server connection and data tranmission. The private keys are stored in app. This will be changed in future versions of the application in order to be more secure. */
 @UIApplicationMain
