@@ -1,0 +1,6 @@
+framework module Pods_PVHNext {
+  umbrella header "Pods-PVHNext-umbrella.h"
+
+  export *
+  module * { export * }
+}
