@@ -3,7 +3,7 @@
 #define FONA_RX 2
 #define FONA_TX 10
 #define FONA_RST 4
-
+//Test
 
 char replybuffer[255]; //Buffer for SMS
 unsigned long currentMillis = millis();
